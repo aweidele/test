@@ -8,10 +8,6 @@
 	<title>Testing</title>
 </head>
 <body>
-<pre>
-	<?php
-//namespace Angrychickens;
-	?>
-</pre>
+<h1>Waffles</h1>
 </body>
 </html>
