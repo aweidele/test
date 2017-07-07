@@ -10,7 +10,7 @@
 <body>
 <pre>
 	<?php
-
+namespace Angrychickens;
 	?>
 </pre>
 </body>
