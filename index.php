@@ -6,7 +6,7 @@
 <body>
 <pre>
 	<?php
-	namespace Test1;
+
 	?>
 </pre>
 </body>
